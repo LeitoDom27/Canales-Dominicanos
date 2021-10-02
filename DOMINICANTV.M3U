@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1,Antena Latina canal 7
+https://r1---sn-5ualdn7e.c.2mdn.net/videoplayback/id/4fd0808625de520d/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3731929936/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/6B30A6F0AD5FA93B9D3D836F5E3FFC3CB3E3F782.6E24ADE8620B40B400A0E368FC7987BBF23FFB02/key/cms1/cms_redirect/yes/mh/sv/mip/186.7.247.215/mm/42/mn/sn-5ualdn7e/ms/onc/mt/1589911513/mv/u/mvi/0/pl/22/file/file.mp4
+
+#EXTINF:-1,Teleantillas canal 2
+https://ss1.domint.net:3126/ta2_str/teleantillas/chunklist_w1638796072.m3u8
+
+#EXTINF:-1,Color Vision canal 9 HD
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1513069857.m3u8
+
+#EXTINF:-1,La Voz de Maria
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w2050074521.m3u8
+
+#EXTINF:-1,Teleuniverso canal 29
+https://ss1.domint.net:3302/tu_str/universo/chunklist_w1622151440.m3u8
+
+#EXTINF:-1,Canal 25 Santiago
+https://ss1.domint.net:3108/c25_str/canal25/chunklist_w1581829627.m3u8 
+
+#EXTINF:-1,Tele Radio America (TRA) canal 45
+https://ss1.domint.net:3310/tra_str/canal45/chunklist_w1695038045.m3u8
+
+#EXTINF:-1,Cinevision canal 19
+https://cinevision01.streamprolive.com/hls/live.m3u8
+ 
+#EXTINF:-1,RNN canal 27
+https://ss1.domint.net:3122/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1,Color Vision canal 9
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w753947024.m3u8
+ 
+#EXTINF:-1,Pervivavision
+https://ss6.domint.net:3002/pvv_str/peravia/chunklist_w1654862067.m3u8
+
+#EXTINF:-1,Telecontacto canal 57
+https://cdn.hostlagarto.com:4445/telecontacto/telecontacto.myStream/chunks.m3u8
+
+#EXTINF:-1,TV Plata canal 3
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1589852694.m3u8
+
+#EXTINF:-1,SuperTV canal 55
+https://ss8.domint.net:3128/stv_str/tv55/chunklist_w950314040.m3u8
+
+#EXTINF:-1,Musavisioncanal 10
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=85077034
+
+#EXTINF:-1,Bonao TV canal 12
+https://ss1.domint.net:3226/btv_str/bonao/chunklist_w1532410370.m3u8
+
+#EXTINF:-1,TV Recuerdos canal 56
+https://59f1cbe63db89.streamlock.net:1443/canal56/_definst_/canal56/chunklist_w1637261369.m3u8
+
+#EXTINF:-1,Hilando Fino TV
+https://hd.streamingmedios.com/HilandoFinoTV/myStream/chunklist_w712496968.m3u8
+
+#EXTINF:-1,Canavision canal 88
+https://59f1cbe63db89.streamlock.net:1443/canavisiontv/_definst_/canavisiontv/chunklist_w1898487617.m3u8
+
+#EXTINF:-1,TNI canal 51
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w824216699.m3u8
+
+#EXTINF:-1,Vision 3000 canal 3
+https://ss1.domint.net:3202/v3_str/v3000/chunklist_w208660450.m3u8
+
+#EXTINF:-1,TU Musica HD
+https://59f1cbe63db89.streamlock.net:1443/tumusicahd/_definst_/tumusicahd/chunklist_w710941768.m3u8
+
+#EXTINF:-1,UncionTV
+https://5c21f7ec1999d.streamlock.net/8190/8190/chunklist_w2002481583.m3u8
+
+#EXTINF:-1,TelemicroHD canal 5
+https://playback.akamaized.net/streams/28126860_8825282_lsi70ccpyu3dzgugotx_1/media/28126860_8825282_lsi70ccpyu3dzgugotx_1@2320000pb.m3u8?dw=14400&ts=1571234400&hdnts=exp=1571409503~acl=/streams/28126860_8825282_lsi70ccpyu3dzgugotx_1/media*~hmac=c7ab511eb0012fbf5e4b69e91b1133a400b671c0942948a62bef21b1b23f9ad6
+
+#EXTINF:-1,Digital 15 Telemicro
+https://playback.akamaized.net/streams/27456795_8268514_lsi6cg5ojs516tzqn7j_1/media/27456795_8268514_lsi6cg5ojs516tzqn7j_1@628000p.m3u8?dw=14400&ts=1571176800&hdnts=exp=1571350379~acl=/streams/27456795_8268514_lsi6cg5ojs516tzqn7j_1/media*~hmac=158f1baee0a0516fe2ad09caca11fdb7fb3d256681d5d7ff4ffdbff6874445fb
+
+#EXTINF:-1,Yuna Vision canal 10 Bonao
+http://ss1.domint.net:2300/yv_str/yuna/chunklist_w689997066.m3u8
+
+#EXTINF:-1,Telesistema canal 11
+https://ss3.domint.net:3114/t11_str/telesistema/chunklist_w1266889365.m3u8
+
+#EXTINF:-1,Telecentro canal 13
+https://playback.akamaized.net/streams/28126860_8555433_lsi94pes0ytbxl7rjgn_1/media/28126860_8555433_lsi94pes0ytbxl7rjgn_1@760000p.m3u8?dw=14400&ts=1571176800&hdnts=exp=1571350874~acl=/streams/28126860_8555433_lsi94pes0ytbxl7rjgn_1/media*~hmac=d0bb4ab98d04f12c09ba01cd30421d284754de7e8c4b24e108b6cedc302fbf6f
+
+#EXTINF:-1,Maimon TV
+http://ss1.domint.net:2314/mtv_str/maimon/chunklist_w2100923818.m3u8
+
+#EXTINF:-1,Antena 7 TV
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTcxMjY0ODUyLCJzZXNzaW9uIjoiMTg2LjYuMTUwLjIwOSIsIndoaXRlbGlzdCI6WyIxODYuNi4xNTAuMjA5Il19LCJzaWduYXR1cmUiOiJhMTU5YmY5MWI5ZTFiMjBmOTgxYjAzNDNkM2U3ZGZkN2U1ZDMzMzM4In0%3D
+
+#EXTINF:-1,Microvision canal 10 la Vega
+http://190.103.183.24:1935/live/MicroHD/chunklist_w406757536.m3u8
+
+#EXTINF:-1,Telenord canal 8 la Vega
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w327660978.m3u8
+
+#EXTINF:-1,Telenord canal 10 la Vega
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1579296354.m3u8
+
+#EXTINF:-1,Telenord canal 12 la Vega
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1224589196.m3u8
+
+#EXTINF:-1,Telenor canal 14
+http://emisoradominicana.net/html5/play/novideo.mp4
+
+#EXTINF:-1,Telenor canal 14
+http://newyorkstream.ddns.net:5854/telenord14/telenord14/playlist.m3u8
+
+#EXTINF:-1,Cine Vision canal 19
+https://cinevision01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1,CND canal noticias
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1571265785~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=65ee0c5f4eb7bbd8477eb91c68113248deb8a9616a170bb86508b026d34013a1
+
+#EXTINF:-1,CarivisionHD
+https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w1704520071.m3u8
+
+#EXTINF:-1,OrbitTV
+https://ss6.domint.net:3082/202_str/orbittv/chunklist_w1693586014.m3u8
+
+#EXTINF:-1,LunaTV canal 53
+https://ss1.domint.net:3140/luna_str/lunatv/chunklist_w32652747.m3u8
+
+#EXTINF:-1,NexxoTV canal 20
+https://ss6.domint.net:3106/nxo_str/nexxotv/chunklist_w454273308.m3u8
+
+#EXTINF:-1,BorealTV HD
+https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w978137731.m3u8
+
+#EXTINF:-1,GalaxialTV
+https://cdn.hostlagarto.com:4445/galaxiatv/galaxiatv.myStream/chunks.m3u8?nimblesessionid=11972579
+
+#EXTINF:-1,SuperTV canal 55
+https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1738230891.m3u8
+
+#EXTINF:-1,Xtremo channel
+https://ss1.domint.net:3120/xtr_str/xtremo/chunklist_w234015304.m3u8
+
+#EXTINF:-1,Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=85509100
+
+#EXTINF:-1,RomanaTV canal 42
+http://live.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1,TV Cotui canal 31
+http://74.108.36.101:1935/tvcotui/tvcotui/chunklist_w301112566.m3u8
+
+#EXTINF:-1,Digital Vision canal 63
+https://ss1.domint.net:3106/dv6_str/digitalvision/chunklist_w703746600.m3u8
+
+#EXTINF:-1, TV 10 San Juan
+https://5c21f7ec1999d.streamlock.net/8082/8082/chunklist_w1775371250.m3u8
+
+#EXTINF:-1,Tele Milenio TV canal 36
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?nimblesessionid=85517314
+
+#EXTINF:-1,Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1,Señales TV
+https://5b646fb69c0ad.streamlock.net:1935/senalestv/senalestv.stream/chunklist_w1963117645.m3u8
+
+#EXTINF:-1,Bella Vision canal 8 Higuey
+https://ss1.domint.net:3128/bev_str/bella/chunklist_w737668308.m3u8
+
+#EXTINF:-1, Z101
+Https://zdigital.streamprolive/hls/live.m3u8
+
+#EXTINF:-1, ZOLFM
+https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1532140922.m3u8
